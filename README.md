@@ -1,25 +1,2 @@
-# <Prework Study Guide Webpage>
-
-## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-## Installation
-N/A
-
-## Usage
-Each section has notes about topics to be covered in Bootcamp, such as; HTML, CSS, JavaScript, Git. As well as using DevTools console we can see the JavaScript running. Showcasing a function of which topic to study first. 
-
-
-## Credits
-N/a
-
-## License
-Please refer to the LICENSE in the repo.
-
----
-
+# prework-study-guide
+repository for prework study guide
